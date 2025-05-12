@@ -1,4 +1,4 @@
-# SentinelSecure Brute Force Demo Setup Guide
+# Cyber Sentinel Secure Brute Force Demo Setup Guide
 
 This guide will help you set up a safe, legal environment to test the brute force tool against a deliberately vulnerable Flask application.
 
